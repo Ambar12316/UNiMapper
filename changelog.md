@@ -1,1 +1,1 @@
-### Implemented a Basic Raw Code of Topological Sort that will provide the barebones for the project.
+- Implemented a Basic Raw Code of Topological Sort that will provide the barebones for the project.
