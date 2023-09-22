@@ -1,3 +1,3 @@
-**Project Title**----------------------> CPU Scheduler
+**Project Title**----------------------> Task Scheduler
 
 **Programming Language**---------------> Java
