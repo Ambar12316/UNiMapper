@@ -1,3 +1,3 @@
-**Project Title**----------------------> Task Scheduler
+**Project Title**----------------------> Unitimetable Timetable Using Directed Acyclic Graph
 
 **Programming Language**---------------> Java
