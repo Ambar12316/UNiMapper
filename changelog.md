@@ -1,6 +1,7 @@
 **Timetable 2.0**
--Now you can write your task names and their dependencies instead of just numbers.
--User input for tasks and their dependencies has been seperated for better understanding.
+- Now you can write your task names and their dependencies instead of just numbers.
+- User input for tasks and their dependencies has been seperated for better understanding.
+
 *October 30 2023*
 - Created a basic timetable format using Directed Acyclic Graph(DAG) that shows tasks and their dependencies.
 - Added user input to the timetable.
