@@ -1,3 +1,3 @@
-**Project Title**----------------------> Unitimetable Timetable Using Directed Acyclic Graph
+**Project Title**----------------------> Unitable: Simple Timetable Using Directed Acyclic Graph
 
 **Programming Language**---------------> Java
